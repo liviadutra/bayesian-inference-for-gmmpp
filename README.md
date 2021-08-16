@@ -15,27 +15,27 @@ We are attaching the following five of the examples presented in the paper. The 
 
 ## Scenario A2 - Section 4.1
 
-Folder: [Section_4.1]
+Folder: [Section_4.1](https://github.com/liviadutra/bayesian-inference-for-gmmpp/tree/main/Section_4.1)
 
 
 ## Example 3 - Section 4.3
 
-Folder: Section_4.3
+Folder: [Section_4.3](https://github.com/liviadutra/bayesian-inference-for-gmmpp/tree/main/Section_4.3)
 
 
 ## Coal mining disasters - Section 5.1
 
-Folder: Section_5.2
+Folder: [Section_5.1](https://github.com/liviadutra/bayesian-inference-for-gmmpp/tree/main/Section_5.1)
 
 
 ## BRLxUSD exchange rate - Section 5.2
 
-Folder: Section_5.2
+Folder: [Section_5.2](https://github.com/liviadutra/bayesian-inference-for-gmmpp/tree/main/Section_5.2)
 
 
 ## COVID-19 Romania - Appendix E
 
-Folder: Appendix_E
+Folder: [Appendix_E](https://github.com/liviadutra/bayesian-inference-for-gmmpp/tree/main/Appendix_E)
 
 
 ## The output files
