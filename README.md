@@ -10,7 +10,7 @@ For all the examples, there is a main file, named main_code.ox, which is the one
 The datasets used in the manuscript are saved in files named data.mat inside the respective folder of each example.
 The first row of the data file contains its number of rows and columns (Ox format).
 
-We are attaching the following five of the examples presented in the paper. The codes for any of the other examples in the manuscript are available upon request to the authors.
+We are attaching five of the examples presented in the paper. The codes for any of the other examples in the manuscript are available upon request to the authors.
 
 
 ## Scenario A2 - Section 4.1
@@ -42,15 +42,15 @@ Folder: [Appendix_E](https://github.com/liviadutra/bayesian-inference-for-gmmpp/
 
 The output files for each example are:
 
-- "lambda_mean.mat": posterior mean of the IF for a grid of 1000 equaly spaced points in [0,S].
+- "lambda_mean.mat": posterior mean of the IF for a grid of 1000 equaly spaced points in \[0,S\].
 - "lambda_ci.mat": 95% pointwise credibility interval for the IF for the same grid with 1000 points. Row 1: quantile(0.025), row 2: quantile(0.975).
 - "psi.mat": MCMC chain of the \psi parameters - one parameter per column.
 - "logposterior.mat": MCMC chain of the posterior log-density.
 - "integral.mat": MCMC chain of the integrated IF in \[0,S\].
-- "theta.mat": MCMC chain for the \theta parameters - one parameter per column. No output if the Q-matrix is fixed.
+- "theta.mat": MCMC chain of the \theta parameters - one parameter per column. No output if the Q-matrix is fixed.
 
 If prediction is performed:
 
-- "Npredic.mat": MCMC chain for the number of observetion in the predicted interval.
-- "integralpredic.mat": MCMC of the integrated IF in the predicted interval.
+- "Npredic.mat": MCMC chain of the number of observetions in the predicted interval.
+- "integralpredic.mat": MCMC chain of the integrated IF in the predicted interval.
 - "timepredict.mat": MCMC chain of the time instant when the IF hits a predefined value in the epidemic model.
