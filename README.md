@@ -1,6 +1,6 @@
-# Algorithms for examples in "Exact and computationally efficient Bayesian inference for generalized Markov modulated Poisson processes"
+# Algorithms for the examples in the paper "Exact and computationally efficient Bayesian inference for generalized Markov modulated Poisson processes"
 
-The algorithms are coded in Ox
+The algorithms are coded in Ox.
 
 Please, download Ox Console (including OxEdit) from the link https://www.doornik.com/download.html.
 Ox is free for academic use.
