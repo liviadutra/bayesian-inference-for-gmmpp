@@ -45,7 +45,7 @@ The output files for each example are:
 - "lambda_mean.mat": posterior mean of the IF for a grid of 1000 equaly spaced points in \[0,S\].
 - "lambda_ci.mat": 95% pointwise credibility interval for the IF for the same grid with 1000 points. Row 1: quantile(0.025), row 2: quantile(0.975).
 - "psi.mat": MCMC chain of the \psi parameters - one parameter per column.
-- "logposterior.mat": MCMC chain of the log-posterior density (logarithm of the non-normalized posterior density)
+- "logposterior.mat": MCMC chain of the log-posterior density (logarithm of the non-normalized posterior density).
 - "integral.mat": MCMC chain of the integrated IF in \[0,S\].
 - "theta.mat": MCMC chain of the \theta parameters - one parameter per column. No output if the Q-matrix is fixed.
 
